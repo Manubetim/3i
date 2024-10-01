@@ -54,7 +54,7 @@ criaCartao (
     ' Deodoro da Fonseca')
     
     criaCartao (
-    'Gepgrafia',
+    'Geografia',
     'Qual é o rio mais longo do mundo?',
     'Rio Amazonas')
     
@@ -94,6 +94,6 @@ criaCartao (
     'H20')
     
     criaCartao (
-    'Matematicaa',
+    'Matematica',
     'Qual é a soma dos catetos opostos?',
     'a soma da hipotenusa')
