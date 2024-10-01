@@ -29,19 +29,19 @@ criaCartao (
     'O átomo é uma partícula formada por matéria que não pode ser subdivido.')
     
     criaCartao (
-    'Português',
-    'Qual é a figura de linguagem em “O vento cantava uma canção triste”?',
-    'Personificação')
+    'literatura',
+    'Em que ano começou a literatura brasileira?',
+    '1500')
     
     criaCartao (
-    'Literatura',
-    'elementos da literatura gótica ?',
-    'ruptuda de padrões literários,afronta racionalismo,instinto vida e morte, libido e terror')
+    'Geografia',
+    'Qual é o 8 planeta do sistema solar?',
+    'Netuno')
     
     criaCartao (
     'História',
-    'Qual foi o tratado que dividiu o mundo entre Portugal e Espanha em 1494?',
-    'tratado de tordesilhas')
+    'Qual foi a unica revolução de escravos que realmente funcionou com a conquista de direitos?',
+    'Revolução Haitiana')
     
     criaCartao (
     'Filosofia',
@@ -49,19 +49,19 @@ criaCartao (
     'reune racionalismo e empiri, revolução copernicana')
     
     criaCartao (
+    'História',
+    ' Qual foi o primeiro presidente do Brasil ?',
+    ' Deodoro da Fonseca')
+    
+    criaCartao (
+    'Gepgrafia',
+    'Qual é o rio mais longo do mundo?',
+    'Rio Amazonas')
+    
+    criaCartao (
     'Geografia',
-    ' o que é agropecuária extensiva ?',
-    'áreas extensas, baixa modernidade, mão de obra familiar ')
-    
-    criaCartao (
-    'Biologia',
-    'onde ocorre digestão de proteínas e gorduras respectivamente ?',
-    'estômago e intestino ')
-    
-    criaCartao (
-    'Física',
-    'Qual é a velocidade da luz no vácuo?',
-    'Aproximadamente 300.000 km/s')
+    'Qual é o paísque tem a maior populção do mundo?',
+    'China')
     
     criaCartao (
     'Matemática',
@@ -69,19 +69,19 @@ criaCartao (
     'An = a1 • r^(n-1)')
     
     criaCartao (
-    'Química',
-    'Parâmetros para classificação da cadeia carbônica?',
-    'A cadeia carbônica é classificada por ligação, forma, ramificação, composição, arranjo de átomos e número de carbonos, permitindo a identificação de moléculas orgânicas.')
+    'Geografia',
+    'Qual é a capital da França?',
+    'Paris')
     
     criaCartao (
     'Geografia',
-    'Qual é a capital da Austrália?',
-    'Camberra')
+    'Qual é a maior montanha do mundo, se considerarmos sua altura em relação ao nível do mar?',
+    'Monte Everest')
     
     criaCartao (
     'História',
-    'Em que ano aconteceu a Revolução Francesa?',
-    '1789')
+    'Quando foi a ditadura?',
+    '1964')
     
     criaCartao (
     'Português',
@@ -90,10 +90,10 @@ criaCartao (
     
     criaCartao (
     'Química',
-    'Qual a fórmula molecular da glicose?',
-    'C6H12O6')
+    'Qual a fórmula molecular da agua?',
+    'H20')
     
     criaCartao (
-    'Literatura',
-    'Qual é o movimento literário associado ao poeta Vinicius de Moraes?',
-    'Modernismo')
+    'Matematicaa',
+    'Qual é a soma dos caetos opostos?',
+    'a soma da hipotenusa')
