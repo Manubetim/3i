@@ -95,5 +95,5 @@ criaCartao (
     
     criaCartao (
     'Matematicaa',
-    'Qual é a soma dos caetos opostos?',
+    'Qual é a soma dos catetos opostos?',
     'a soma da hipotenusa')
